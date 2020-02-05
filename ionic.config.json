@@ -1,0 +1,7 @@
+{
+  "name": "wonder-piew-piew",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
